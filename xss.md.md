@@ -1,1 +1,0 @@
-- list of xss-payloads: `https://github.com/payloadbox/xss-payload-list/blob/master/Intruder/xss-payload-list.txt`
